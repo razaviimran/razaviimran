@@ -25,11 +25,10 @@
 <br/>
 
 
-- 🔭 I’m currently working on [FrontEnd Developer](https://karmasteels.com/).
-<!-- - 🌱 I’m currently learning more about BlockChain. -->
+- 🔭 I’m currently working as [PHP Developer](https://karmasteels.com/).
+<!-- - 🌱 I’m currently learning more about CodeIgniter & Flutter. -->
 - 👯 I’m looking to collaborate on [Youtube](https://youtube.com/razaviimran).
-<!-- - 🤔 I’m looking for help with VelocityX documentation. -->
-- 💬 Ask me about Flutter or Python related stuff.
+- 💬 Ask me about Flutter or PHP related stuff.
 - 📫 How to reach me: [Twitter - @razaviimran](https://twitter.com/razaviimran1) , [Youtube - @razaviimran](https://youtube.com/razaviimran)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours on youtube every day.
@@ -41,11 +40,13 @@
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+
+<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>     -->
 
 <a href="https://github.com/razaviimran">
